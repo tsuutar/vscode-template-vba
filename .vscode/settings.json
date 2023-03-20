@@ -1,0 +1,11 @@
+{
+  "code-runner.runInTerminal": true,
+  "code-runner.executorMapByFileExtension": {
+    ".vbs": "cscript"
+  },
+  "code-runner.executorMap": {
+    "vbscript": "cscript //Nologo"
+  },
+  "files.autoGuessEncoding": true,
+  "files.encoding": "shiftjis"
+}
